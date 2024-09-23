@@ -1,0 +1,26 @@
+table, th {
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 4px;    
+    margin-top: 128px;
+    margin-bottom : auto;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    color:darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 200%;
+    font-weight: bolder;
+}
